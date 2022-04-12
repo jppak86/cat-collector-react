@@ -154,6 +154,7 @@ function App() {
               <Confirmation deleteToy={deleteToy} user={user} />
             </ProtectedRoute>
           } />
+          
         </Routes>
       </main>
     </>
